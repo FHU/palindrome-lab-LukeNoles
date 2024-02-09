@@ -12,3 +12,4 @@ def palindrome(word):
 if __name__ == '__main__': 
     user_word = input()
     print (palindrome(user_word))
+    
